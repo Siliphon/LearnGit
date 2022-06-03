@@ -3,3 +3,5 @@ const student = {
     name: "John",
     age: 13,
 }
+
+student.name = "Kuy";
