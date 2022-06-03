@@ -5,3 +5,4 @@ const student = {
 }
 
 student.name = "Kuy";
+student.age = "27";
